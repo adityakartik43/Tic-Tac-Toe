@@ -45,9 +45,13 @@ body{
 
 }
 
-.winner {
+.msg-container {
     text-align: center;
-    font-size: 5vmin;
+    font-size: 6vmin;
     color: #ffffc7;
 
+}
+
+.hide {
+    display : none;
 }
